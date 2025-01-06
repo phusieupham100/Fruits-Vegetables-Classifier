@@ -76,7 +76,7 @@ def run():
     
     if img_file is not None:
         # Display the uploaded image
-        st.image(img_file, caption="Uploaded Image", use_column_width=True)
+        st.image(img_file, caption="Uploaded Image", use_container_width=True)
         save_image_path = './upload_images/' + img_file.name
         with open(save_image_path, 'wb') as f:
             f.write(img_file.getbuffer())
