@@ -1,6 +1,6 @@
 streamlit
 tensorflow==2.12.0
-keras
+keras==2.12.0
 pillow
-beautifulsoup4
 requests
+beautifulsoup4
