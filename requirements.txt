@@ -1,0 +1,6 @@
+streamlit
+tensorflow==2.12.0
+keras
+pillow
+beautifulsoup4
+requests
