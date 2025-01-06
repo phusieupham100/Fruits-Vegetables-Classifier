@@ -98,7 +98,7 @@ def run():
     # Footer section
     st.markdown("""
     ---
-    _Developed with ❤️ by [Your Name](https://github.com/phusieupham100)._  
+    _Developed with ❤️ by [Phùng Hữu Phú](https://github.com/phusieupham100)._  
     """)
 
 run()
